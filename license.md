@@ -46,7 +46,7 @@ You need not contribute applications that only invoke this software's functional
 
 ## Superstructure
 
-Contribute software used to make this software's functionality and Application Programming Interfaces available to applications.
+Contribute software used to make this software's functionality and Application Programming Interfaces available to applications.  For example, contribute software for managing instances of this software, orchestrating its deployment, logging its activity, monitoring its performance, or backing up its data.
 
 ## Contribution
 
