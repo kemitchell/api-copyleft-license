@@ -54,7 +54,7 @@ When this license requires you to contribute software:
 
 1.  Publish all source code for that software, in the preferred form for making changes, through a freely accessible distribution system widely used for similar source code, so the Developer and others can find and copy it.
 
-2.  License that software under terms with substantially the same legal effect as [Copyright](#patent), [Patent](#patent), and [Reliability](#reliability), so the Developer and others may work with that software, and the Developer may incorporate that software into this software.  Your terms may, but need not, include a rule like [Notices](#notices), a disclaimer like [Disclaimer](#disclaimer), or both, but no other terms.  For example, you may license under the [BSD-2-Clause Plus Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent.html).
+2.  License that software under terms with substantially the same legal effect as [Copyright](#copyright), [Patent](#patent), and [Reliability](#reliability), so the Developer and others may work with that software, and the Developer may incorporate that software into this software.  Your terms may, but need not, include a rule like [Notices](#notices), a disclaimer like [Disclaimer](#disclaimer), or both, but no other terms.  For example, you may license under the [BSD-2-Clause Plus Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent.html).
 
 ## Excuse
 
