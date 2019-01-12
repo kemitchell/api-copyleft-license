@@ -42,7 +42,7 @@ Contribute additions to this software.  You need not contribute additions to oth
 
 ## Applications
 
-You need not contribute applications that only invoke this software's functionality through the Application Programming Interfaces this software exposes.
+You need not contribute applications that only invoke this software's functionality through the Application Programming Interfaces this software exposes, unless [Superstructure](#superstructure) requires.
 
 ## Superstructure
 
