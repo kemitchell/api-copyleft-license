@@ -38,7 +38,7 @@ Contribute changes to files containing this software.
 
 ## Additions
 
-Contribute additions to this software.  You need not contribute additions to other software that only invokes this software's functionality through the Application Programming Interfaces this software exposes.
+Contribute additions to this software.  You need not contribute additions to other software that only invokes this software's functionality through the Application Programming Interfaces this software exposes, unless [Superstructure](#superstructure) requires.
 
 ## Applications
 
