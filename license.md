@@ -62,13 +62,13 @@ Contribute changes to files containing this software.
 
 ## Additions
 
-Contribute additions to this software.  You need not contribute additions to other software that only invokes this software's functionality through the Application Programming Interfaces this software exposes, unless [Superstructure](#superstructure) requires.
+Contribute additions to this software.  You need not contribute additions to other software that only invokes this software's functionality through the interfaces this software exposes, unless [Superstructure](#superstructure) requires.
 
 <!-- Designed to sweep optimizations, functionality adds, and other improvements to the licensed software. -->
 
 ## Applications
 
-You need not contribute applications that only invoke this software's functionality through the Application Programming Interfaces this software exposes, unless [Superstructure](#superstructure) requires.
+You need not contribute applications that only invoke this software's functionality through the interfaces this software exposes, unless [Superstructure](#superstructure) requires.
 
 <!-- Makes the selective nature of the copyleft rules explicit. -->
 
@@ -78,11 +78,15 @@ You need not contribute applications that only invoke this software's functional
 
 <!-- Other terms considered: "extensions", "framing" -->
 
-Contribute software used to expose this software's Application Programming Interfaces and functionality to applications.  For example, contribute software for managing instances of this software, orchestrating its deployment, logging its activity, monitoring its performance, or backing up its data.
+Contribute software used to expose this software's interfaces and functionality to applications.  For example, contribute software for managing instances of this software, orchestrating its deployment, logging its activity, monitoring its performance, or backing up its data.
 
-<!-- Note the parallelism of "functionality" and "APIs" with Applications and Additions. -->
+<!-- Note the parallelism of "functionality" and "interfaces" with Applications and Additions. -->
 
 <!-- The examples list cannot but restrict the more general language of the sentence before it. -->
+
+## Interfaces
+
+Interfaces exposed by this software include all the methods this software affords for people or other software to invoke its functionality, such as command line, graphical, application programming, remote procedure call, and inter-process communication interfaces.
 
 ## Contribution
 
