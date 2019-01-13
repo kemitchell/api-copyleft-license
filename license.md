@@ -54,6 +54,24 @@ You must ensure that everyone who gets a copy of any part of this software from 
 
 <!-- An orthodox open source style attribution condition. -->
 
+## Contribution
+
+When this license requires you to contribute software:
+
+<!-- This language functions like a defined term, without falling back on lawyerly conventions that alienate non-lawyer readers. -->
+
+1.  Publish all source code for that software, in the preferred form for making changes, through a freely accessible distribution system widely used for similar source code, so the developer and others can find and copy it.
+
+<!-- FSF has objected to licenses that require sending code back to the licensor specifically. -->
+
+<!-- On criterion 10 of the Open Source Definition, see https://writing.kemitchell.com/2018/11/05/OSD-Copyleft-Regulation.html#technology-neutrality -->
+
+2.  License that software under the terms of this license, so the developer and others may work with that software.  Alternatively, you may license that software on other terms with substantially the same legal effect as [Copyright](#copyright), [Patent](#patent), and [Reliability](#reliability).  Your other terms may, but need not, include a rule like [Notices](#notices), a disclaimer like [Disclaimer](#disclaimer), or both, but no other terms.  For example, you may license under the [BSD-2-Clause Plus Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent.html).
+
+<!-- Note that criterion 3 of the Open Source Definition requires permitting licensing on the same terms: https://writing.kemitchell.com/2018/11/05/OSD-Copyleft-Regulation.html#allow-the-same-terms-for-derived-works -->
+
+<!-- Note that BSD-2-Clause-Patent's patent grant follows Apache 2.0's approach to scope. -->
+
 ## Changes
 
 Contribute changes to files containing this software.
@@ -89,24 +107,6 @@ Contribute software used to expose this software's interfaces and functionality 
 ## Interfaces
 
 Interfaces exposed by this software include all the interfaces this software provides users or other software to invoke its functionality.  For example, command line, graphical, application programming, remote procedure call, and inter-process communication interfaces.
-
-## Contribution
-
-When this license requires you to contribute software:
-
-<!-- This language functions like a defined term, without falling back on lawyerly conventions that alienate non-lawyer readers. -->
-
-1.  Publish all source code for that software, in the preferred form for making changes, through a freely accessible distribution system widely used for similar source code, so the developer and others can find and copy it.
-
-<!-- FSF has objected to licenses that require sending code back to the licensor specifically. -->
-
-<!-- On criterion 10 of the Open Source Definition, see https://writing.kemitchell.com/2018/11/05/OSD-Copyleft-Regulation.html#technology-neutrality -->
-
-2.  License that software under the terms of this license, so the developer and others may work with that software.  Alternatively, you may license that software on other terms with substantially the same legal effect as [Copyright](#copyright), [Patent](#patent), and [Reliability](#reliability).  Your other terms may, but need not, include a rule like [Notices](#notices), a disclaimer like [Disclaimer](#disclaimer), or both, but no other terms.  For example, you may license under the [BSD-2-Clause Plus Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent.html).
-
-<!-- Note that criterion 3 of the Open Source Definition requires permitting licensing on the same terms: https://writing.kemitchell.com/2018/11/05/OSD-Copyleft-Regulation.html#allow-the-same-terms-for-derived-works -->
-
-<!-- Note that BSD-2-Clause-Patent's patent grant follows Apache 2.0's approach to scope. -->
 
 ## Excuse
 
