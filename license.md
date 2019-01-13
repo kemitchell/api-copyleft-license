@@ -84,6 +84,8 @@ Contribute software used to expose this software's interfaces and functionality 
 
 <!-- The examples list cannot but restrict the more general language of the sentence before it. -->
 
+<!-- Compare the illustrative list in the definition of "Service Source Code" in section 13 of SSPLv2:  management software, user interfaces, application program interfaces, automation software, monitoring software, backup software, and host orchestration software" -->
+
 ## Interfaces
 
 Interfaces exposed by this software include all the methods this software affords for people or other software to invoke its functionality, such as command line, graphical, application programming, remote procedure call, and inter-process communication interfaces.
