@@ -32,7 +32,7 @@ In order to receive this license, you must agree to its rules.  The rules of thi
 
 ## Copyright
 
-The developer licenses you to do everything with this software that would otherwise infringe copyrights in this software that the developer can license.
+The developer licenses you to do everything with this software that would otherwise infringe copyrights in this software they can license.
 
 ## Patent
 
