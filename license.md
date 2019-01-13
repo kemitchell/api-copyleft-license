@@ -12,7 +12,7 @@ Homepage: {URL}
 
 <!-- See https://writing.kemitchell.com/2019/01/10/Discipline-Stated-Purpose.html -->
 
-This license gives you as much permission to work with this software as possible, but requires you to contribute source code for changes, additions, and superstructure.
+This license gives you broad permission to work with this software for any purpose, but requires you to contribute source code for changes, additions, and superstructure.
 
 <!-- Compare Parity, which does not make any permissive allowance for applications integrating the software being licensed: "This license lets you use and share this software for free, as long as you contribute software you make with it." -->
 
