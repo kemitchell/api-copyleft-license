@@ -78,7 +78,7 @@ You need not contribute applications that only invoke this software's functional
 
 <!-- Other terms considered: "extensions", "framing" -->
 
-Contribute software used to make this software's functionality and Application Programming Interfaces available to applications.  For example, contribute software for managing instances of this software, orchestrating its deployment, logging its activity, monitoring its performance, or backing up its data.
+Contribute software used to expose this software's Application Programming Interfaces and functionality to applications.  For example, contribute software for managing instances of this software, orchestrating its deployment, logging its activity, monitoring its performance, or backing up its data.
 
 <!-- Note the parallelism of "functionality" and "APIs" with Applications and Additions. -->
 
