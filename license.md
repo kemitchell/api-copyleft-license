@@ -60,6 +60,10 @@ You must contribute changed or extended versions of this software and other soft
 
 <!-- Compare MongoDB's statements on AGPLv3 https://www.mongodb.com/blog/post/the-agpl and SSPLv1 https://www.mongodb.com/licensing/server-side-public-license/faq#implications -->
 
+## Interfaces
+
+Interfaces exposed by this software include all the interfaces this software provides users or other software to invoke its functionality.  For example, command line, graphical, application programming, remote procedure call, and inter-process communication interfaces.
+
 ## Contribution
 
 When this license requires you to contribute software:
@@ -77,10 +81,6 @@ When this license requires you to contribute software:
 <!-- Note that criterion 3 of the Open Source Definition requires permitting licensing on the same terms: https://writing.kemitchell.com/2018/11/05/OSD-Copyleft-Regulation.html#allow-the-same-terms-for-derived-works -->
 
 <!-- Note that BSD-2-Clause-Patent's patent grant follows Apache 2.0's approach to scope. -->
-
-## Interfaces
-
-Interfaces exposed by this software include all the interfaces this software provides users or other software to invoke its functionality.  For example, command line, graphical, application programming, remote procedure call, and inter-process communication interfaces.
 
 ## Excuse
 
