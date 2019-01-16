@@ -54,6 +54,12 @@ You must ensure that everyone who gets a copy of any part of this software from 
 
 <!-- An orthodox open source style attribution condition. -->
 
+## Copyleft
+
+You must contribute changed or extended versions of this software and other software that invokes this software's functionality, but not applications that only invoke this software's functionality through the interfaces this software exposes.
+
+<!-- Compare MongoDB's statements on AGPLv3 https://www.mongodb.com/blog/post/the-agpl and SSPLv1 https://www.mongodb.com/licensing/server-side-public-license/faq#implications -->
+
 ## Contribution
 
 When this license requires you to contribute software:
@@ -71,38 +77,6 @@ When this license requires you to contribute software:
 <!-- Note that criterion 3 of the Open Source Definition requires permitting licensing on the same terms: https://writing.kemitchell.com/2018/11/05/OSD-Copyleft-Regulation.html#allow-the-same-terms-for-derived-works -->
 
 <!-- Note that BSD-2-Clause-Patent's patent grant follows Apache 2.0's approach to scope. -->
-
-## Changes
-
-Contribute changes to files containing this software.
-
-<!-- Designed to approximate MPL 2.0 style copyleft. -->
-
-## Additions
-
-Contribute additions to this software.  You need not contribute additions to other software that only invokes this software's functionality through the interfaces this software exposes, unless [Superstructure](#superstructure) requires.
-
-<!-- Designed to sweep optimizations, functionality adds, and other improvements to the licensed software. -->
-
-## Applications
-
-You need not contribute applications that only invoke this software's functionality through the interfaces this software exposes, unless [Superstructure](#superstructure) requires.
-
-<!-- Makes the selective nature of the copyleft rules explicit. -->
-
-<!-- Compare MongoDB's statements on AGPLv3 https://www.mongodb.com/blog/post/the-agpl and SSPLv1 https://www.mongodb.com/licensing/server-side-public-license/faq#implications -->
-
-## Superstructure
-
-<!-- Other terms considered: "extensions", "framing" -->
-
-Contribute software used to expose this software's interfaces and functionality to applications.  For example, contribute software for managing instances of this software, orchestrating its deployment, logging its activity, monitoring its performance, or backing up its data.
-
-<!-- Note the parallelism of "functionality" and "interfaces" with Applications and Additions. -->
-
-<!-- The examples list cannot but restrict the more general language of the sentence before it. -->
-
-<!-- Compare the illustrative list in the definition of "Service Source Code" in section 13 of SSPLv2:  management software, user interfaces, application program interfaces, automation software, monitoring software, backup software, and host orchestration software" -->
 
 ## Interfaces
 
