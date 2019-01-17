@@ -84,6 +84,6 @@ When this license requires you to contribute software:
 
 ## Excuse
 
-You are excused for unknowingly breaking [Notices](#notices), [Changes](#changes), [Additions](#additions), or [Superstructure](#superstructure) if you do what the rule requires, or stop doing anything requiring this license, within 30 days of learning you broke the rule.
+You are excused for unknowingly breaking [Notices](#notices) or [Copyleft](#copyleft) if you do what the rule requires, or stop doing anything requiring this license, within 30 days of learning you broke the rule.
 
 <!-- This language permits multiple excuses, so long as the rule breaker doesn't know about their breach on account of factual circumstances, rather than ignorance of the license terms.  First notice of any violation will make a licensee aware of the license terms. -->
