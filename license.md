@@ -76,7 +76,13 @@ When this license requires you to contribute software:
 
 <!-- On criterion 10 of the Open Source Definition, see https://writing.kemitchell.com/2018/11/05/OSD-Copyleft-Regulation.html#technology-neutrality -->
 
-2.  License parts of that software that haven't already been contributed under the terms of this license, so the developer and others may work with that software.  Alternatively, you may license those parts on other terms with substantially the same legal effect as [Copyright](#copyright), [Patent](#patent), and [Reliability](#reliability).  Your other terms may, but need not, include a rule like [Notices](#notices), a disclaimer like [Disclaimer](#disclaimer), or both, but no other terms.  For example, you may license under the [BSD-2-Clause Plus Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent.html).
+2.  License parts of that software that haven't already been contributed in one of the following ways:
+
+    1.  License on the terms of the [BSD-2-Clause Plus Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent.html).
+
+    2.  License on other terms with substantially the same legal effect as [Copyright](#copyright), [Patent](#patent), and [Reliability](#reliability).  Those other terms may, but need not, include a rule like [Notices](#notices), a disclaimer like [Disclaimer](#disclaimer), or both, but no other terms.
+
+    3.  License on the terms of this license.
 
 <!-- Note that criterion 3 of the Open Source Definition requires permitting licensing on the same terms: https://writing.kemitchell.com/2018/11/05/OSD-Copyleft-Regulation.html#allow-the-same-terms-for-derived-works -->
 
