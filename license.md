@@ -56,7 +56,7 @@ You must ensure that everyone who gets a copy of any part of this software from 
 
 ## Copyleft
 
-You must contribute changed or extended versions of this software, and other software that invokes this software's functionality, but not applications that only invoke this software's functionality through the interfaces this software exposes, without exposing this software's interfaces and functionality to other applications.
+You need not contribute applications that only invoke this software's functionality through the interfaces this software exposes, without exposing this software's interfaces and functionality to other applications.  However, you must contribute other software that invokes this software's functionality, as well as any changed or extended versions of this software.
 
 <!-- Compare MongoDB's statements on AGPLv3 https://www.mongodb.com/blog/post/the-agpl and SSPLv1 https://www.mongodb.com/licensing/server-side-public-license/faq#implications -->
 
