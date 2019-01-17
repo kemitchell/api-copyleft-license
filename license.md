@@ -24,7 +24,7 @@ This license gives you broad permission to work with this software for any purpo
 
 ## Acceptance
 
-In order to receive this license, you must agree to its rules.  The rules of this license are both obligations under our agreement and conditions to your license.  You may not do anything with this software that triggers a rule you cannot or will not follow.
+In order to receive this license, you must agree to its rules.  The rules of this license are both obligations under our agreement and conditions to your license.  You may not do anything with this software that triggers a rule that you cannot or will not follow.
 
 <!-- Because the license puts significant obligations on the licensee, we need to dispel confusion about legal characterization and remedies. To head off wasteful arguments in uncharted legal territory, expressly recite both contract and license.  The terms alone cannot establish contract. But in the likely event that facts do, clarify the consequences. -->
 
@@ -32,7 +32,7 @@ In order to receive this license, you must agree to its rules.  The rules of thi
 
 ## Copyright
 
-The developer licenses you to do everything with this software that would otherwise infringe copyrights in this software they can license.
+The developer licenses you to do everything with this software that would otherwise infringe copyrights in this software that they can license.
 
 ## Patent
 
