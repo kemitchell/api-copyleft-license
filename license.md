@@ -62,7 +62,7 @@ You must contribute changed or extended versions of this software, and other sof
 
 ## Interfaces
 
-Interfaces exposed by this software include all the interfaces this software provides users or other software to invoke its functionality.  For example, command line, graphical, application programming, remote procedure call, and inter-process communication interfaces.
+Interfaces exposed by this software include all the interfaces this software provides users or other software to invoke its functionality.  For example: command line, graphical, application programming, remote procedure call, and inter-process communication interfaces.
 
 ## Contribution
 
