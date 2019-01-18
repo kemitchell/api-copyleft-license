@@ -70,19 +70,19 @@ When this license requires you to contribute software:
 
 <!-- This language functions like a defined term, without falling back on lawyerly conventions that alienate non-lawyer readers. -->
 
-1.  Publish all source code for that software, in the preferred form for making changes, through a freely accessible distribution system widely used for similar source code, so the developer and others can find and copy it.
+First, publish all source code for that software, in the preferred form for making changes, through a freely accessible distribution system widely used for similar source code, so the developer and others can find and copy it.
 
 <!-- FSF has objected to licenses that require sending code back to the licensor specifically. -->
 
 <!-- On criterion 10 of the Open Source Definition, see https://writing.kemitchell.com/2018/11/05/OSD-Copyleft-Regulation.html#technology-neutrality -->
 
-2.  License parts of that software that haven't already been contributed in one of the following ways:
+Second, license parts of that software that haven't already been contributed in one of the following ways:
 
-    1.  License on the terms of the [BSD-2-Clause Plus Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent.html).
+1.  License on the terms of the [BSD-2-Clause Plus Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent.html).
 
-    2.  License on other terms with substantially the same legal effect as [Copyright](#copyright), [Patent](#patent), and [Reliability](#reliability).  Those other terms may, but need not, include a rule like [Notices](#notices), a disclaimer like [Disclaimer](#disclaimer), or both, but no other terms.
+2.  License on other terms with substantially the same legal effect as [Copyright](#copyright), [Patent](#patent), and [Reliability](#reliability).  Those other terms may, but need not, include a rule like [Notices](#notices), a disclaimer like [Disclaimer](#disclaimer), or both, but no other terms.
 
-    3.  License on the terms of this license.
+3.  License on the terms of this license.
 
 <!-- Note that criterion 3 of the Open Source Definition requires permitting licensing on the same terms: https://writing.kemitchell.com/2018/11/05/OSD-Copyleft-Regulation.html#allow-the-same-terms-for-derived-works -->
 
