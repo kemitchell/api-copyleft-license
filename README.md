@@ -1,6 +1,8 @@
 # Shared Component License
 
-an evolved, plain language, hybrid license inspired by MongoDB's [Server Side Public License](https://www.mongodb.com/licensing/server-side-public-license).
+an open source license that's copyleft for changes, additions, and wrappers, but permissive for applications that just use through the API
+
+inspired by MongoDB's [Server Side Public License](https://www.mongodb.com/licensing/server-side-public-license).
 
 Announced via blog post:
 
