@@ -98,6 +98,8 @@ Second, license parts of that software that haven't already been contributed in 
 
 Take these steps within thirty calendar days of creating or using the software for the first time.
 
+This license does not let you change the license terms for others' work.
+
 ## Excuse
 
 You are excused for unknowingly breaking [Notices](#notices) or [Copyleft](#copyleft) if you do what the rule requires, or stop doing anything requiring this license, within thirty days of learning you broke the rule.
