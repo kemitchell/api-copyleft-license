@@ -12,7 +12,7 @@ Homepage: {URL}
 
 <!-- See https://writing.kemitchell.com/2019/01/10/Discipline-Stated-Purpose.html -->
 
-This license gives you permission to use, share, and build with this software for free, but requires you to contribute source code for changes, additions, and other software that you build with it, other than applications that simply invoke this software through the interfaces it exposes.
+This license gives you permission to use, share, and build with this software for free, but requires you to contribute source code for changes, additions, and other software that you build with it, other than software that simply invoke this software through the interfaces it exposes.
 
 <!-- Compare Parity, which does not make any permissive allowance for applications integrating the software being licensed: "This license lets you use and share this software for free, as long as you contribute software you make with it." -->
 
@@ -60,7 +60,7 @@ With two exceptions, you must contribute other software that invokes this softwa
 
 ## Exceptions
 
-You need not contribute applications that only invoke this software's functionality through the interfaces this software exposes, without exposing this software's interfaces and functionality to other applications.
+You need not contribute other software that only invokes this software's functionality through the interfaces this software exposes, without exposing this software's interfaces and functionality to other software.
 
 <!-- Compare MongoDB's statements on AGPLv3 https://www.mongodb.com/blog/post/the-agpl and SSPLv1 https://www.mongodb.com/licensing/server-side-public-license/faq#implications -->
 
