@@ -60,7 +60,7 @@ With two exceptions, you must contribute other software that invokes this softwa
 
 ## Exceptions
 
-You need not contribute other software that only invokes this software's functionality through the interfaces this software exposes, without exposing this software's interfaces and functionality to other software.
+You need not contribute other software that only invokes this software's functionality through the interfaces it exposes, without exposing this software's interfaces and functionality to other software.
 
 <!-- Compare MongoDB's statements on AGPLv3 https://www.mongodb.com/blog/post/the-agpl and SSPLv1 https://www.mongodb.com/licensing/server-side-public-license/faq#implications -->
 
