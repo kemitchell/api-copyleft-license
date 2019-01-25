@@ -56,9 +56,17 @@ You must ensure that everyone who gets a copy of any part of this software from 
 
 ## Copyleft
 
-You need not contribute applications that only invoke this software's functionality through the interfaces this software exposes, without exposing this software's interfaces and functionality to other applications.  However, you must contribute other software that invokes this software's functionality, as well as any changed or extended versions of this software.
+With two exceptions, you must contribute other software that invokes this software's functionality, as well as any changed or extended versions of this software.
+
+## Exceptions
+
+You need not contribute applications that only invoke this software's functionality through the interfaces this software exposes, without exposing this software's interfaces and functionality to other applications.
 
 <!-- Compare MongoDB's statements on AGPLv3 https://www.mongodb.com/blog/post/the-agpl and SSPLv1 https://www.mongodb.com/licensing/server-side-public-license/faq#implications -->
+
+You need not contribute software that you create as an experiment, and don't end up using for more than fourteen calendar days or sharing with anyone else.
+
+<!-- See https://github.com/kemitchell/shared-component-license/issues/15 -->
 
 ## Interfaces
 
