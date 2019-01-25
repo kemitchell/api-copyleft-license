@@ -12,7 +12,7 @@ Homepage: {URL}
 
 <!-- See https://writing.kemitchell.com/2019/01/10/Discipline-Stated-Purpose.html -->
 
-This license gives you permission to use, share, and build with this software for free, but requires you to contribute source code for changes, additions, and other software that you build with it, other than software that simply invokes this software through the interfaces it exposes.
+This license gives you permission to use, share, and build with this software for free, but requires you to contribute source code for changes, additions, and other software that you build with it, other than applications.
 
 <!-- Compare Parity, which does not make any permissive allowance for applications integrating the software being licensed: "This license lets you use and share this software for free, as long as you contribute software you make with it." -->
 
@@ -56,17 +56,21 @@ You must ensure that everyone who gets a copy of any part of this software from 
 
 ## Copyleft
 
-With two exceptions, you must contribute other software that invokes this software's functionality, as well as changes and additions to this software.
+With two exceptions, you must contribute all software that invokes this software's functionality, as well as changes and additions to this software.
 
 ## Exceptions
 
-You need not contribute other software that only invokes this software's functionality through the interfaces it exposes, without exposing this software's interfaces and functionality to other software.
+You need not contribute applications.
 
 <!-- Compare MongoDB's statements on AGPLv3 https://www.mongodb.com/blog/post/the-agpl and SSPLv1 https://www.mongodb.com/licensing/server-side-public-license/faq#implications -->
 
-You need not contribute experimental changes, extensions, or other software that you do not end up using for more than fourteen calendar days, sharing with anyone else, or using to provide service to anyone else.
+You need not contribute experimental changes, extensions, or applications that you do not end up using for more than fourteen calendar days, sharing with anyone else, or using to provide service to anyone else.
 
 <!-- See https://github.com/kemitchell/shared-component-license/issues/15 -->
+
+## Applications
+
+Throughout this license, "applications" means other software that invokes this software's functionality only through the interfaces this software exposes, without exposing this software's interfaces and functionality to other software.
 
 ## Interfaces
 
