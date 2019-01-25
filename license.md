@@ -66,7 +66,7 @@ Interfaces exposed by this software include all the interfaces this software pro
 
 ## Contribution
 
-When this license requires you to contribute software:
+When this license requires you to contribute software, do all of the following within thirty calendar days:
 
 <!-- This language functions like a defined term, without falling back on lawyerly conventions that alienate non-lawyer readers. -->
 
