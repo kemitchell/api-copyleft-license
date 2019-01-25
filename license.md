@@ -64,7 +64,7 @@ You need not contribute other software that only invokes this software's functio
 
 <!-- Compare MongoDB's statements on AGPLv3 https://www.mongodb.com/blog/post/the-agpl and SSPLv1 https://www.mongodb.com/licensing/server-side-public-license/faq#implications -->
 
-You need not contribute software that you create as an experiment, and don't end up using for more than fourteen calendar days or sharing with anyone else.
+You need not contribute experimental changes, extensions, or other software that you do not end up using for more than fourteen calendar days or sharing with anyone else.
 
 <!-- See https://github.com/kemitchell/shared-component-license/issues/15 -->
 
