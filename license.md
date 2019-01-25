@@ -74,7 +74,7 @@ Interfaces exposed by this software include all the interfaces this software pro
 
 ## Contribution
 
-When this license requires you to contribute software, do all of the following within thirty calendar days:
+When this license requires you to contribute software:
 
 <!-- This language functions like a defined term, without falling back on lawyerly conventions that alienate non-lawyer readers. -->
 
@@ -95,6 +95,8 @@ Second, license parts of that software that haven't already been contributed in 
 <!-- Note that criterion 3 of the Open Source Definition requires permitting licensing on the same terms: https://writing.kemitchell.com/2018/11/05/OSD-Copyleft-Regulation.html#allow-the-same-terms-for-derived-works -->
 
 <!-- Note that BSD-2-Clause-Patent's patent grant follows Apache 2.0's approach to scope. -->
+
+Take these steps within thirty calendar days of creating or using the software for the first time.
 
 ## Excuse
 
