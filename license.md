@@ -56,7 +56,7 @@ You must ensure that everyone who gets a copy of any part of this software from 
 
 ## Copyleft
 
-With two exceptions, you must contribute other software that invokes this software's functionality, as well as any changed or extended versions of this software.
+With two exceptions, you must contribute other software that invokes this software's functionality, as well as changes and additions to this software.
 
 ## Exceptions
 
