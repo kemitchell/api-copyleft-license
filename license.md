@@ -24,7 +24,7 @@ This license gives you permission to use, share, and build with this software fo
 
 ## Acceptance
 
-In order to receive this license, you must agree to its rules.  The rules of this license are both obligations under our agreement and conditions to your license.  You may not do anything with this software that triggers a rule that you cannot or will not follow.
+In order to receive this license, you must agree to its rules.  Those rules are both obligations under our agreement and conditions to your license.  You may not do anything with this software that triggers a rule you cannot or will not follow.
 
 <!-- Because the license puts significant obligations on the licensee, we need to dispel confusion about legal characterization and remedies. To head off wasteful arguments in uncharted legal territory, expressly recite both contract and license.  The terms alone cannot establish contract. But in the likely event that facts do, clarify the consequences. -->
 
