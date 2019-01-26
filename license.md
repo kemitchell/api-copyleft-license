@@ -58,11 +58,9 @@ You must ensure that everyone who gets a copy of any part of this software from 
 
 With two exceptions, you must contribute all software that invokes this software's functionality, as well as changes and additions to this software.
 
-## Exceptions
-
-You need not contribute applications.
-
 <!-- Compare MongoDB's statements on AGPLv3 https://www.mongodb.com/blog/post/the-agpl and SSPLv1 https://www.mongodb.com/licensing/server-side-public-license/faq#implications -->
+
+## Experiments
 
 You need not contribute experimental changes, extensions, or applications that you do not end up using for more than fourteen calendar days, sharing with anyone else, or using to provide service to anyone else.
 
@@ -70,9 +68,11 @@ You need not contribute experimental changes, extensions, or applications that y
 
 ## Applications
 
-Throughout this license, "applications" means other software that invokes this software's functionality only through the interfaces this software exposes, without exposing this software's interfaces and functionality to other software.
+You need not contribute software that only invokes this software's functionality through the interfaces this software exposes, without exposing this software's interfaces and functionality to other software.
 
 ## Interfaces
+
+<!-- Note: Interfaces should immediately follow Applications -->
 
 Interfaces exposed by this software include all the interfaces this software provides users or other software to invoke its functionality, such as command line, graphical, application programming, remote procedure call, and inter-process communication interfaces.
 
