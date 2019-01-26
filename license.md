@@ -50,7 +50,7 @@ The developer will not revoke this license.
 
 ## Notices
 
-You must ensure that everyone who gets a copy of any part of this software from you, in source code or any other form, with or without changes, also gets the text of this license, including its developer and homepage lines.
+You must ensure that everyone who gets a copy of any part of this software from you, in source code or any other form, also gets the text of this license, including its developer and homepage lines.
 
 <!-- An orthodox open source style attribution condition. -->
 
