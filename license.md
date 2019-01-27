@@ -70,10 +70,6 @@ You need not contribute prototype changes, extensions, or applications that you 
 
 You need not contribute software that only invokes this software's functionality through the interfaces this software exposes, without exposing this software's interfaces and functionality to other software.
 
-## Interfaces
-
-<!-- Note: Interfaces should immediately follow Applications -->
-
 Interfaces exposed by this software include all the interfaces this software provides users or other software to invoke its functionality, such as command line, graphical, application programming, remote procedure call, and inter-process communication interfaces.
 
 ## Contribution
