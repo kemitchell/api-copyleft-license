@@ -56,7 +56,7 @@ You must ensure that everyone who gets a copy of any part of this software from 
 
 ## Copyleft
 
-With two exceptions, you must contribute all software that invokes this software's functionality, as well as changes and additions to this software, according to [Contributing](#contributing).
+With two exceptions, [Prototypes](#prototypes) and [Applications](#applications), you must contribute all software that invokes this software's functionality, as well as changes and additions to this software, according to [Contributing](#contributing).
 
 <!-- Compare MongoDB's statements on AGPLv3 https://www.mongodb.com/blog/post/the-agpl and SSPLv1 https://www.mongodb.com/licensing/server-side-public-license/faq#implications -->
 
