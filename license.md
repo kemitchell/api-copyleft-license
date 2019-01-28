@@ -90,8 +90,6 @@ Second, license parts of that software that haven't already been contributed in 
 
 2.  License on other terms with substantially the same legal effect as [Copyright](#copyright), [Patent](#patent), and [Reliability](#reliability).  Those other terms may, but need not, include a rule like [Notices](#notices), a disclaimer like [Disclaimer](#disclaimer), or both, but no other terms.
 
-3.  License on the terms of this license.
-
 <!-- Note that criterion 3 of the Open Source Definition requires permitting licensing on the same terms: https://writing.kemitchell.com/2018/11/05/OSD-Copyleft-Regulation.html#allow-the-same-terms-for-derived-works -->
 
 <!-- Note that BSD-2-Clause-Patent's patent grant follows Apache 2.0's approach to scope. -->
