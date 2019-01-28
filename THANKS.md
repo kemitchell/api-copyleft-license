@@ -1,4 +1,4 @@
-- Theo Belaire
-- Alexis Richardson
-- Ben Hilburn
-- Luis Villa
+- Theo Belaire / [@tbelaire](https://github.com/tbelaire)
+- Alexis Richardson / [@monadic](https://github.com/monadic)
+- Ben Hilburn / [@bhilburn](https://github.com/bhilburn)
+- Luis Villa / [@tieguy](https://github.com/tieguy)
