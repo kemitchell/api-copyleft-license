@@ -2,3 +2,4 @@
 - Alexis Richardson / [@monadic](https://github.com/monadic)
 - Ben Hilburn / [@bhilburn](https://github.com/bhilburn)
 - Luis Villa / [@tieguy](https://github.com/tieguy)
+- Josh Berkus / [@jberkus](https://github.com/jberkus)
