@@ -62,7 +62,7 @@ With two exceptions, [Prototypes](#prototypes) and [Applications](#applications)
 
 ## Prototypes
 
-You need not contribute prototype changes, extensions, or applications that you do not end up using for more than fourteen calendar days, sharing with anyone else, or using to provide service to anyone else.
+You need not contribute prototype changes, extensions, or applications that you do not end up using for more than fourteen calendar days, share with anyone else, or use to provide a service to anyone else.
 
 <!-- See https://github.com/kemitchell/shared-component-license/issues/15 -->
 
