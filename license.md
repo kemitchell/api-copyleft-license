@@ -84,21 +84,19 @@ First, publish all source code for that software, in the preferred form for maki
 
 <!-- On criterion 10 of the Open Source Definition, see https://writing.kemitchell.com/2018/11/05/OSD-Copyleft-Regulation.html#technology-neutrality -->
 
-Second, license parts of that software that haven't already been contributed in one of the following ways:
+Second, ensure that each part of that source code is licensed to the public under one of these:
 
-1.  License on the terms of the [BSD-2-Clause Plus Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent.html).
+1.  [The BSD-2-Clause Plus Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent.html)
 
-2.  License on other terms with substantially the same legal effect as [Copyright](#copyright), [Patent](#patent), and [Reliability](#reliability).  Those other terms may, but need not, include a rule like [Notices](#notices), a disclaimer like [Disclaimer](#disclaimer), or both, but no other terms.
+2.  terms with substantially the same legal effect as [Copyright](#copyright), [Patent](#patent), and [Reliability](#reliability), and optionally a rule like [Notices](#notices), a disclaimer like [Disclaimer](#disclaimer), or both, but no other terms
 
-3.  License on the terms of this license.
+3.  this license
 
 <!-- Note that criterion 3 of the Open Source Definition requires permitting licensing on the same terms: https://writing.kemitchell.com/2018/11/05/OSD-Copyleft-Regulation.html#allow-the-same-terms-for-derived-works -->
 
 <!-- Note that BSD-2-Clause-Patent's patent grant follows Apache 2.0's approach to scope. -->
 
 Take these steps within thirty calendar days of creating or using the software for the first time.
-
-This license does not let you change the license terms for others' work.
 
 ## Excuse
 
