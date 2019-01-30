@@ -11,14 +11,6 @@ all: $(TARGETS)
 %.pdf: %.md
 	pandoc -o $@ $<
 
-.PHONY: test wordcount
-
-test: wordcount
-
-# Keep the license at or below 500 words.
-wordcount: license.md
-	@test $(shell grep -vF "<!--" $< | wc -w | cut -d ' ' -f 1) -le 550
-
 .PHONY: clean
 
 clean:
