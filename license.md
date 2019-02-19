@@ -1,4 +1,4 @@
-# Shared Component License
+# API Copyleft License
 
 Developer: {Legal Name}
 
