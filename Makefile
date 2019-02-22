@@ -4,7 +4,7 @@ TARGETS=$(addprefix $(BUILD)/,license.md license.docx license.pdf license.html)
 all: $(TARGETS)
 
 $(BUILD)/%.md: %.md | $(BUILD)
-	fgrep -v "<!--" $< | sed '/^\s*$$/d' | awk 'ORS="\n\n"' > $@
+	fgrep -v "<!--" $< | sed '/^\s*$$/d' | awk 'ORS="\n\n"' | fmt -60 > $@
 
 $(BUILD)/%.docx: %.md | $(BUILD)
 	pandoc -o $@ $<
