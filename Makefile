@@ -1,15 +1,22 @@
-TARGETS=license.docx license.pdf license.html
+BUILD=build
+TARGETS=$(addprefix $(BUILD)/,license.md license.docx license.pdf license.html)
 
 all: $(TARGETS)
 
-%.docx: %.md
+$(BUILD)/%.md: %.md | $(BUILD)
+	fgrep -v "<!--" $< > $@
+
+$(BUILD)/%.docx: %.md | $(BUILD)
 	pandoc -o $@ $<
 
-%.html: %.md
+$(BUILD)/%.html: %.md | $(BUILD)
 	pandoc -t html5 -o $@ $<
 
-%.pdf: %.md
+$(BUILD)/%.pdf: %.md | $(BUILD)
 	pandoc -o $@ $<
+
+$(BUILD):
+	mkdir -p $(BUILD)
 
 .PHONY: clean
 
