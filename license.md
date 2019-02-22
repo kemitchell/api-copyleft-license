@@ -1,5 +1,7 @@
 # API Copyleft License
 
+Version 1.0.0
+
 Developer: {Legal Name}
 
 <!-- The developer could be an individual, but more likely a legal entity. -->
