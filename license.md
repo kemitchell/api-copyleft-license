@@ -88,9 +88,11 @@ Second, ensure that each part of that source code is licensed to the public unde
 
 1.  [The BSD-2-Clause Plus Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent.html)
 
-2.  terms with substantially the same legal effect as [Copyright](#copyright), [Patent](#patent), and [Reliability](#reliability), and optionally a rule like [Notices](#notices), a disclaimer like [Disclaimer](#disclaimer), or both, but no other terms
+2.  [The Blue Oak Model License 1.0.0](https://spdx.org/licenses/BlueOak-1.0.0.html)
 
-3.  this license
+3.  terms with substantially the same legal effect as [Copyright](#copyright), [Patent](#patent), and [Reliability](#reliability), and optionally a rule like [Notices](#notices), a disclaimer like [Disclaimer](#disclaimer), or both, but no other terms
+
+4.  this license
 
 <!-- Note that criterion 3 of the Open Source Definition requires permitting licensing on the same terms: https://writing.kemitchell.com/2018/11/05/OSD-Copyleft-Regulation.html#allow-the-same-terms-for-derived-works -->
 
