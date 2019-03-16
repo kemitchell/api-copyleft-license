@@ -84,6 +84,8 @@ Second, ensure that each part of that source code is licensed to the public unde
 
 <!-- Note that BSD-2-Clause-Patent's patent grant follows Apache 2.0's approach to scope. -->
 
+Note that this license does _not_ allow you to change the license terms for this software, but only to contribute software covered by [Copyleft](#copyleft) under terms from the list above.
+
 Take these steps within thirty calendar days of creating or using the software for the first time.
 
 ## Excuse
