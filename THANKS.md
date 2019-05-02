@@ -4,5 +4,5 @@ This license would be far worse, if not for great feedback from these people:
 - Alexis Richardson / [@monadic](https://github.com/monadic)
 - Ben Hilburn / [@bhilburn](https://github.com/bhilburn)
 - Luis Villa / [@tieguy](https://github.com/tieguy)
-
+- Adam Jacob / [@adamhjk](https://github.com/adamhjk)
 These folks don't necessarily endorse this license.
