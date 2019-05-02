@@ -1,23 +1,22 @@
-TARGETS=license.docx license.pdf license.html
+BUILD=build
+TARGETS=$(addprefix $(BUILD)/,license.md license.docx license.pdf license.html)
 
 all: $(TARGETS)
 
-%.docx: %.md
+$(BUILD)/%.md: %.md | $(BUILD)
+	fgrep -v "<!--" $< | sed '/^\s*$$/d' | awk 'ORS="\n\n"' | fmt -60 > $@
+
+$(BUILD)/%.docx: %.md | $(BUILD)
 	pandoc -o $@ $<
 
-%.html: %.md
+$(BUILD)/%.html: %.md | $(BUILD)
 	pandoc -t html5 -o $@ $<
 
-%.pdf: %.md
+$(BUILD)/%.pdf: %.md | $(BUILD)
 	pandoc -o $@ $<
 
-.PHONY: test wordcount
-
-test: wordcount
-
-# Keep the license at or below 500 words.
-wordcount: license.md
-	@test $(shell grep -vF "<!--" $< | wc -w | cut -d ' ' -f 1) -le 550
+$(BUILD):
+	mkdir -p $(BUILD)
 
 .PHONY: clean
 
