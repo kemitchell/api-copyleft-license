@@ -76,7 +76,7 @@ Second, ensure that each part of that source code is licensed to the public unde
 
 2.  [The Blue Oak Model License 1.0.0](https://spdx.org/licenses/BlueOak-1.0.0.html)
 
-3.  terms with substantially the same legal effect as [Copyright](#copyright), [Patent](#patent), and [Reliability](#reliability), and optionally a rule like [Notices](#notices), a disclaimer like [Disclaimer](#disclaimer), or both, but no other terms
+3.  terms with substantially the same legal effect as [Copyright](#copyright), [Patent](#patent), and [Reliability](#reliability), and optionally a rule like [Notices](#notices), a disclaimer like [No Liability](#no-liability), or both, but no other terms
 
 4.  this license
 
