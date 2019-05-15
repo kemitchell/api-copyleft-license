@@ -56,6 +56,8 @@ You need not contribute prototype changes, extensions, or applications that you 
 
 <!-- See https://github.com/kemitchell/shared-component-license/issues/15 -->
 
+The purpose of this exception to [Copyleft](#copyleft) is to allow private experimentation.
+
 ## Applications
 
 You need not contribute software that only invokes this software's functionality through the interfaces this software exposes, without exposing this software's interfaces and functionality to other software.
