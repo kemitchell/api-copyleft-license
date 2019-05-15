@@ -52,19 +52,19 @@ With two exceptions, [Prototypes](#prototypes) and [Applications](#applications)
 
 ## Prototypes
 
+The purpose of this exception to [Copyleft](#copyleft) is to allow private experimentation.
+
 You need not contribute prototype changes, extensions, or applications that you do not end up using for more than fourteen calendar days, share with anyone else, or use to provide a service to anyone else.
 
 <!-- See https://github.com/kemitchell/shared-component-license/issues/15 -->
 
-The purpose of this exception to [Copyleft](#copyleft) is to allow private experimentation.
-
 ## Applications
+
+The purpose of this exception to [Copyleft](#copyleft) is to encourage cooperative development of this software, and to prohibit use of this software to create competing, proprietary substitutes for this software.
 
 You need not contribute software that only invokes this software's functionality through the interfaces this software exposes, without exposing this software's interfaces and functionality to other software.
 
 Interfaces exposed by this software include all the interfaces this software provides users or other software to invoke its functionality, such as command line, graphical, application programming, remote procedure call, and inter-process communication interfaces.
-
-The purpose of this exception to [Copyleft](#copyleft) is to encourage cooperative development of this software, and to prohibit use of this software to create competing, proprietary substitutes for this software.
 
 ## Contributing
 
