@@ -20,23 +20,27 @@ In order to receive this license, you must agree to its rules.  The rules of thi
 
 Each contributor licenses you to do everything with this software that would otherwise infringe that contributor's copyright in it.
 
+<!-- Identical to the Copyright section of the Blue Oak Model License 1.0.0 -->
+
 ## Notices
 
-You must ensure that everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license.
+You must ensure that everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license or a link to <https://apicopyleft.com/license/{version}>.
 
-<!-- TODO: Add URL for notices. -->
+<!-- Derived from to the Copyright section of the Blue Oak Model License 1.0.0 -->
 
 ## Patent
 
 Each contributor licenses you to do everything with this software that would otherwise infringe any patent claims they can license or become able to license.
 
-<!-- Note the absence of any scope restriction, like Apache 2.0's limit to patents readings on the version to which someone contributed. First, that kind of scope language isn't particularly assuring.  It's often unclear how to tell what patents get covered, even with revision control data to hand.  Second, the primary use case for this license is entity licensors, who can do a single outbound patent analysis.  -->
+<!-- Identical to the Patent section of the Blue Oak Model License 1.0.0 -->
 
 <!-- Note that Contributing requires a strong patent grant. -->
 
 ## Reliability
 
 No contributor can revoke this license.
+
+<!-- Identical to the Reliability section of the Blue Oak Model License 1.0.0 -->
 
 <!-- Express irrevocability.  Note that headings are _not_ disclaimed, and Reliance evokes the relevant legal concept. -->
 
