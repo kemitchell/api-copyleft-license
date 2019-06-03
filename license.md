@@ -60,7 +60,7 @@ You need not contribute prototype changes, extensions, or applications that you 
 
 ## Applications
 
-The purpose of this exception to [Copyleft](#copyleft) is to encourage cooperative development of this software, and to prohibit use of this software to create competing substitutes for this software that are not contributed.
+The purpose of this exception to [Copyleft](#copyleft) is to encourage cooperative development of this software by prohibiting use of this software to create competing, proprietary substitutes.
 
 You need not contribute software that only invokes this software's functionality through the interfaces this software exposes, without exposing this software's interfaces or functionality to other software.  Software that exposes this software's functionality only in specialized application to a particular use case does not count as exposing this software's functionality to other software.
 
