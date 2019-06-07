@@ -72,7 +72,7 @@ When this license requires you to contribute software:
 
 <!-- This language functions like a defined term, without falling back on lawyerly conventions that alienate non-lawyer readers. -->
 
-First, publish all source code for that software, in the preferred form for making changes, through a freely accessible distribution system widely used for similar source code, so the developer and others can find and copy it.
+First, publish all source code for that software, in the preferred form for making changes, through a freely accessible distribution system widely used for similar source code, so contributors and others can find and copy it.
 
 <!-- FSF has objected to licenses that require sending code back to the licensor specifically. -->
 
