@@ -48,7 +48,7 @@ No contributor can revoke this license.
 
 The purpose of this rule is to encourage cooperative development of this software, minimizing duplication of effort across competing substitutes.
 
-With two exceptions, [Prototypes](#prototypes) and [Applications](#applications), you must contribute all changes and additions to this software, as well as all software that invokes this software's functionality, according to [Contributing](#contributing).
+With two exceptions, [Prototypes](#prototypes) and [Applications](#applications), you must contribute all changes and additions to this software, as well as all software that invokes this software's functionality, according to [Contributing](#contributing).  When in doubt, contribute the software.
 
 <!-- Compare MongoDB's statements on AGPLv3 https://www.mongodb.com/blog/post/the-agpl and SSPLv1 https://www.mongodb.com/licensing/server-side-public-license/faq#implications -->
 
