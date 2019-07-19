@@ -46,7 +46,9 @@ No contributor can revoke this license.
 
 ## Copyleft
 
-With two exceptions, [Prototypes](#prototypes) and [Applications](#applications), you must contribute all changes and additions to this software, as well as all software that invokes this software's functionality, according to [Contributing](#contributing).
+The purpose of this rule is to encourage cooperative development of this software, minimizing duplication of effort across competing substitutes.
+
+With two exceptions, [Prototypes](#prototypes) and [Applications](#applications), you must contribute all changes and additions to this software, as well as all software that invokes this software's functionality, according to [Contributing](#contributing).  When in doubt, contribute the software.
 
 <!-- Compare MongoDB's statements on AGPLv3 https://www.mongodb.com/blog/post/the-agpl and SSPLv1 https://www.mongodb.com/licensing/server-side-public-license/faq#implications -->
 
@@ -60,9 +62,9 @@ You need not contribute prototype changes, extensions, or applications that you 
 
 ## Applications
 
-The purpose of this exception to [Copyleft](#copyleft) is to encourage cooperative development of this software, and to prohibit use of this software to create competing substitutes for this software that are not contributed.
+The purpose of this exception to [Copyleft](#copyleft) is to give you the freedom to share and license applications of this software as you like.
 
-You need not contribute software that only invokes this software's functionality through the interfaces this software exposes, without exposing this software's interfaces and functionality to other software.
+You need not contribute any software that only invokes this software's functionality through the interfaces this software exposes, without exposing this software's interfaces or functionality to users or other software to such an extent that it becomes a practical substitute for this software.
 
 Interfaces exposed by this software include all the interfaces this software provides users or other software to invoke its functionality, such as command line, graphical, application programming, remote procedure call, and inter-process communication interfaces.
 
@@ -72,7 +74,7 @@ When this license requires you to contribute software:
 
 <!-- This language functions like a defined term, without falling back on lawyerly conventions that alienate non-lawyer readers. -->
 
-First, publish all source code for that software, in the preferred form for making changes, through a freely accessible distribution system widely used for similar source code, so the developer and others can find and copy it.
+First, publish all source code for that software, in the preferred form for making changes, through a freely accessible distribution system widely used for similar source code, so contributors and others can find and copy it.
 
 <!-- FSF has objected to licenses that require sending code back to the licensor specifically. -->
 
