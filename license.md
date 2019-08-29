@@ -4,7 +4,7 @@
 
 <!-- See https://writing.kemitchell.com/2019/01/10/Discipline-Stated-Purpose.html -->
 
-This license gives you permission to use, share, and build with this software for free, but requires you to contribute source code for changes, additions, and software that you build with it, other than prototypes and applications.
+This license gives you permission to use, share, and build with this software for free, but requires you to contribute source code for changes, additions, and other software that you build with it, other than prototypes and applications.
 
 <!-- Compare Parity, which does not make any permissive allowance for applications integrating the software being licensed: "This license lets you use and share this software for free, as long as you contribute software you make with it." -->
 
