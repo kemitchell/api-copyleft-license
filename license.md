@@ -26,7 +26,7 @@ Make sure everyone who gets a copy of any part of this software from you, with o
 
 <!-- Based on the Copyleft section of Parity 7.0.0 -->
 
-This rule encourages cooperative development of this software, minimizing duplication of effort across competing substitutes.
+This rule requires cooperative development of this software, minimizing duplication of effort across competing substitutes.
 
 ## Applications
 
