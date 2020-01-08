@@ -14,17 +14,17 @@ In order to receive this license, you have to agree to its rules.  Those rules a
 
 <!-- The final sentence goes to impossibility and frustration.  It may not be necessary, but we'd all better avoid the argument. -->
 
-## Copyright
-
-Each contributor licenses you to do everything with this software that would otherwise infringe that contributor's copyright in it.
-
-<!-- Identical to the Copyright section of the Blue Oak Model License 1.0.0 -->
-
 ## Notices
 
 Make sure everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license or a link to <https://apicopyleft.com/license/{version}>.
 
 <!-- Derived from to the Copyright section of the Blue Oak Model License 1.0.0 -->
+
+## Copyright
+
+Each contributor licenses you to do everything with this software that would otherwise infringe that contributor's copyright in it.
+
+<!-- Identical to the Copyright section of the Blue Oak Model License 1.0.0 -->
 
 ## Patent
 
