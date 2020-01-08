@@ -26,7 +26,7 @@ Make sure everyone who gets a copy of any part of this software from you, with o
 
 <!-- Based on the Copyleft section of Parity 7.0.0 -->
 
-The purpose of this rule is to encourage cooperative development of this software, minimizing duplication of effort across competing substitutes.
+This this rule encourages cooperative development of this software, minimizing duplication of effort across competing substitutes.
 
 ## Applications
 
@@ -34,7 +34,7 @@ You don't have to contribute any software that only invokes this software's func
 
 Interfaces exposed by this software include all the interfaces this software provides users or other software to invoke its functionality, such as command line, graphical, application programming, remote procedure call, and inter-process communication interfaces.
 
-The purpose of this exception to [Copyleft](#copyleft) is to give you the freedom to share and license applications of this software as you like.
+This exception to [Copyleft](#copyleft) allows building, sharing, and licensing applications as you like.
 
 ## Prototypes
 
@@ -48,7 +48,7 @@ You don't have to [contribute](#contribute) any change, addition, or other softw
 
 <!-- Based on the Prototypes section of Parity 7.0.0 -->
 
-The purpose of this exception to [Copyleft](#copyleft) is to allow private experimentation.
+This exception to [Copyleft](#copyleft) allows private experimentation.
 
 ## Contribute
 
