@@ -4,7 +4,7 @@
 
 <!-- See https://writing.kemitchell.com/2019/01/10/Discipline-Stated-Purpose.html -->
 
-This license allows you to use and share this software for free, but you have to share improvements, but not applications, alike.
+This license allows you to use and share this software for free, but you have to share improvements alike.
 
 <!-- Based on the Purpose section of Parity 7.0.0 -->
 
