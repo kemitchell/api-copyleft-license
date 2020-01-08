@@ -7,6 +7,7 @@ fi
 set -ex
 
 version="$1"
+current="$(git rev-parse --abbrev-ref HEAD)"
 branch="release-$version"
 tag="v$version"
 LICENSE=LICENSE.md
@@ -19,4 +20,4 @@ git commit -m "Version $version"
 git tag "$tag"
 git push origin "$branch"
 git push origin "$tag"
-git checkout master
+git checkout "$current"
