@@ -6,27 +6,25 @@
 
 This license allows you to use and share this software for free, but you have to share improvements to it, as opposed to applications, alike.
 
+<!-- Based on the Purpose section of Parity 7.0.0 -->
+
 ## Agreement
 
 In order to receive this license, you have to agree to its rules.  Those rules are both obligations under that agreement and conditions to your license.  Don't do anything with this software that triggers a rule you can't or won't follow.
 
 <!-- Identical to the Agreement section of Parity 7.0.0 -->
 
-<!-- Because the license puts significant obligations on the licensee, we need to dispel confusion about legal characterization and remedies. To head off wasteful arguments in uncharted legal territory, expressly recite both contract and license.  The terms alone can't establish contract. But in the likely event that facts do, clarify the consequences. -->
-
-<!-- The final sentence goes to impossibility and frustration.  It may not be necessary, but we'd all better avoid the argument. -->
-
 ## Notices
 
 Make sure everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license or a link to <https://apicopyleft.com/license/{version}>.
 
-<!-- Derived from to the Notices of Parity 7.0.0 -->
+<!-- Based on the Notices section of Parity 7.0.0 -->
 
 ## Copyleft
 
 [Contribute](#contribute) all changes and additions to this software, as well as all software that invokes this software's functionality.  When in doubt, [contribute](#contribute).
 
-<!-- Derived from to the Copyleft of Parity 7.0.0 -->
+<!-- Based on the Copyleft section of Parity 7.0.0 -->
 
 The purpose of this rule is to encourage cooperative development of this software, minimizing duplication of effort across competing substitutes.
 
@@ -48,7 +46,7 @@ You don't have to [contribute](#contribute) any change, addition, or other softw
 
 3.  You don't use it to provide a service to anyone outside the team developing it.
 
-<!-- Derived from to the Prototypes section of Parity 7.0.0 -->
+<!-- Based on the Prototypes section of Parity 7.0.0 -->
 
 The purpose of this exception to [Copyleft](#copyleft) is to allow private experimentation.
 
@@ -64,7 +62,7 @@ To [contribute](#contribute) software:
 
 4.  Note that this license does _not_ allow you to change the license terms for this software.  You must follow [Notices](#notices).
 
-<!-- Derived from to the Contribute section of Parity 7.0.0 -->
+<!-- Based on the Contribute section of Parity 7.0.0 -->
 
 ## Excuse
 
