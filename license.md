@@ -52,13 +52,13 @@ The purpose of this rule is to encourage cooperative development of this softwar
 
 ## Prototypes
 
-You need not contribute any change, addition, or other software that meets all these criteria:
+You don't have to [contribute](#contribute) any change, addition, or other software that meets all these criteria:
 
-1.  You do not use it for more than fourteen calendar days.
+1.  You don't use it for more than fourteen calendar days.
 
-2.  You do not share it outside the team developing it, other than for non-production user testing.
+2.  You don't share it outside the team developing it, other than for non-production user testing.
 
-3.  You do not use it to provide a service to anyone outside the team developing it.
+3.  You don't use it to provide a service to anyone outside the team developing it.
 
 The purpose of this exception to [Copyleft](#copyleft) is to allow private experimentation.
 
