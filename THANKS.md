@@ -6,5 +6,6 @@ This license would be far worse, if not for great feedback from these people:
 - Luis Villa / [@tieguy](https://github.com/tieguy)
 - Josh Berkus / [@jberkus](https://github.com/jberkus)
 - Adam Jacob / [@adamhjk](https://github.com/adamhjk)
+- Simer Plaha / [@simerplaha](https://github.com/simerplaha)
 
 These folks don't necessarily endorse this license.
