@@ -40,7 +40,7 @@ This exception to [Copyleft](#copyleft) allows building, sharing, and licensing 
 
 You don't have to [contribute](#contribute) any change, addition, or other software that meets all these criteria:
 
-1.  You don't use it for more than fourteen calendar days.
+1.  You don't use it for more than thirty calendar days.
 
 2.  You don't share it outside the team developing it, other than for non-production user testing.
 
