@@ -10,6 +10,8 @@ This license allows you to use and share this software for free, but you have to
 
 In order to receive this license, you have to agree to its rules.  Those rules are both obligations under that agreement and conditions to your license.  Don't do anything with this software that triggers a rule you can't or won't follow.
 
+<!-- Identical to the Agreement section of Parity 7.0.0 -->
+
 <!-- Because the license puts significant obligations on the licensee, we need to dispel confusion about legal characterization and remedies. To head off wasteful arguments in uncharted legal territory, expressly recite both contract and license.  The terms alone can't establish contract. But in the likely event that facts do, clarify the consequences. -->
 
 <!-- The final sentence goes to impossibility and frustration.  It may not be necessary, but we'd all better avoid the argument. -->
@@ -18,7 +20,7 @@ In order to receive this license, you have to agree to its rules.  Those rules a
 
 Make sure everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license or a link to <https://apicopyleft.com/license/{version}>.
 
-<!-- Derived from to the Copyright section of the Blue Oak Model License 1.0.0 -->
+<!-- Derived from to the Notices of Parity 7.0.0 -->
 
 ## Copyright
 
@@ -32,21 +34,19 @@ Each contributor licenses you to do everything with this software that would oth
 
 <!-- Identical to the Patent section of the Blue Oak Model License 1.0.0 -->
 
-<!-- Note that Contributing requires a strong patent grant. -->
-
 ## Reliability
 
 No contributor can revoke this license.
 
 <!-- Identical to the Reliability section of the Blue Oak Model License 1.0.0 -->
 
-<!-- Express irrevocability.  Note that headings are _not_ disclaimed, and Reliance evokes the relevant legal concept. -->
+<!-- Express irrevocability.  Note that headings are _not_ disclaimed, and reliance evokes the relevant legal concept. -->
 
 ## Copyleft
 
 [Contribute](#contribute) all changes and additions to this software, as well as all software that invokes this software's functionality.  When in doubt, [contribute](#contribute).
 
-<!-- Compare MongoDB's statements on AGPLv3 https://www.mongodb.com/blog/post/the-agpl and SSPLv1 https://www.mongodb.com/licensing/server-side-public-license/faq#implications -->
+<!-- Derived from to the Copyleft of Parity 7.0.0 -->
 
 The purpose of this rule is to encourage cooperative development of this software, minimizing duplication of effort across competing substitutes.
 
@@ -68,6 +68,8 @@ You don't have to [contribute](#contribute) any change, addition, or other softw
 
 3.  You don't use it to provide a service to anyone outside the team developing it.
 
+<!-- Derived from to the Prototypes section of Parity 7.0.0 -->
+
 The purpose of this exception to [Copyleft](#copyleft) is to allow private experimentation.
 
 ## Contribute
@@ -82,12 +84,18 @@ To [contribute](#contribute) software:
 
 4.  Note that this license does _not_ allow you to change the license terms for this software.  You must follow [Notices](#notices).
 
+<!-- Derived from to the Contribute section of Parity 7.0.0 -->
+
 ## Excuse
 
 You're excused for unknowingly breaking [Copyleft](#copyleft) if you [contribute](#contribute) as required, or stop doing anything requiring this license, within thirty days of learning you broke the rule.  You're excused for unknowingly breaking [Notices](#notices) if you take all practical steps to comply within thirty days of learning you broke the rule.
 
+<!-- Identical to the Excuse section of Parity 7.0.0 -->
+
 ## No Liability
 
 ***As far as the law allows, this software comes as is, without any warranty or condition, and no contributor will be liable to anyone for any damages related to this software or this license, under any kind of legal claim.***
+
+<!-- Identical to the No Liability section of the Blue Oak Model License 1.0.0 -->
 
 <!-- Plain text renderings of the license should use symbols, like asterisks, rather than ALL CAPS, for conspicuity. -->
