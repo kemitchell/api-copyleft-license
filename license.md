@@ -1,4 +1,4 @@
-# API Copyleft License Development Draft
+# API Copyleft License 2.0.0-pre.2
 
 ## Purpose
 
@@ -16,7 +16,7 @@ In order to receive this license, you have to agree to its rules.  Those rules a
 
 ## Notices
 
-Make sure everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license or a link to <https://apicopyleft.com/license/{version}>.
+Make sure everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license or a link to <https://apicopyleft.com/license/2.0.0-pre.2>.
 
 <!-- Based on the Notices section of Parity 7.0.0 -->
 
