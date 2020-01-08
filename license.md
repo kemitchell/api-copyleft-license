@@ -52,9 +52,13 @@ The purpose of this rule is to encourage cooperative development of this softwar
 
 ## Prototypes
 
-You need not contribute prototype changes, extensions, or other software that you do not end up using for more than fourteen calendar days, sharing with anyone else, or using to provide a service to anyone else.
+You need not contribute any change, addition, or other software that meets all these criteria:
 
-<!-- See https://github.com/kemitchell/shared-component-license/issues/15 -->
+1.  You do not use it for more than fourteen calendar days.
+
+2.  You do not share it outside the team developing it, other than for non-production user testing.
+
+3.  You do not use it to provide a service to anyone outside the team developing it.
 
 The purpose of this exception to [Copyleft](#copyleft) is to allow private experimentation.
 
