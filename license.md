@@ -50,6 +50,14 @@ No contributor can revoke this license.
 
 The purpose of this rule is to encourage cooperative development of this software, minimizing duplication of effort across competing substitutes.
 
+## Applications
+
+You don't have to contribute any software that only invokes this software's functionality through the interfaces this software exposes, without exposing this software's interfaces or functionality to users or other software to such an extent that it becomes a practical substitute for this software.
+
+Interfaces exposed by this software include all the interfaces this software provides users or other software to invoke its functionality, such as command line, graphical, application programming, remote procedure call, and inter-process communication interfaces.
+
+The purpose of this exception to [Copyleft](#copyleft) is to give you the freedom to share and license applications of this software as you like.
+
 ## Prototypes
 
 You don't have to [contribute](#contribute) any change, addition, or other software that meets all these criteria:
@@ -61,14 +69,6 @@ You don't have to [contribute](#contribute) any change, addition, or other softw
 3.  You don't use it to provide a service to anyone outside the team developing it.
 
 The purpose of this exception to [Copyleft](#copyleft) is to allow private experimentation.
-
-## Applications
-
-You don't have to contribute any software that only invokes this software's functionality through the interfaces this software exposes, without exposing this software's interfaces or functionality to users or other software to such an extent that it becomes a practical substitute for this software.
-
-Interfaces exposed by this software include all the interfaces this software provides users or other software to invoke its functionality, such as command line, graphical, application programming, remote procedure call, and inter-process communication interfaces.
-
-The purpose of this exception to [Copyleft](#copyleft) is to give you the freedom to share and license applications of this software as you like.
 
 ## Contribute
 
