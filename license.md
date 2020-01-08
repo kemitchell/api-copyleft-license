@@ -22,26 +22,6 @@ Make sure everyone who gets a copy of any part of this software from you, with o
 
 <!-- Derived from to the Notices of Parity 7.0.0 -->
 
-## Copyright
-
-Each contributor licenses you to do everything with this software that would otherwise infringe that contributor's copyright in it.
-
-<!-- Identical to the Copyright section of the Blue Oak Model License 1.0.0 -->
-
-## Patent
-
-Each contributor licenses you to do everything with this software that would otherwise infringe any patent claims they can license or become able to license.
-
-<!-- Identical to the Patent section of the Blue Oak Model License 1.0.0 -->
-
-## Reliability
-
-No contributor can revoke this license.
-
-<!-- Identical to the Reliability section of the Blue Oak Model License 1.0.0 -->
-
-<!-- Express irrevocability.  Note that headings are _not_ disclaimed, and reliance evokes the relevant legal concept. -->
-
 ## Copyleft
 
 [Contribute](#contribute) all changes and additions to this software, as well as all software that invokes this software's functionality.  When in doubt, [contribute](#contribute).
@@ -91,6 +71,26 @@ To [contribute](#contribute) software:
 You're excused for unknowingly breaking [Copyleft](#copyleft) if you [contribute](#contribute) as required, or stop doing anything requiring this license, within thirty days of learning you broke the rule.  You're excused for unknowingly breaking [Notices](#notices) if you take all practical steps to comply within thirty days of learning you broke the rule.
 
 <!-- Identical to the Excuse section of Parity 7.0.0 -->
+
+## Copyright
+
+Each contributor licenses you to do everything with this software that would otherwise infringe that contributor's copyright in it.
+
+<!-- Identical to the Copyright section of the Blue Oak Model License 1.0.0 -->
+
+## Patent
+
+Each contributor licenses you to do everything with this software that would otherwise infringe any patent claims they can license or become able to license.
+
+<!-- Identical to the Patent section of the Blue Oak Model License 1.0.0 -->
+
+## Reliability
+
+No contributor can revoke this license.
+
+<!-- Identical to the Reliability section of the Blue Oak Model License 1.0.0 -->
+
+<!-- Express irrevocability.  Note that headings are _not_ disclaimed, and reliance evokes the relevant legal concept. -->
 
 ## No Liability
 
