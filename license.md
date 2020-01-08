@@ -44,7 +44,7 @@ You don't have to [contribute](#contribute) any change, addition, or other softw
 
 2.  You don't share it outside the team developing it, other than for non-production user testing.
 
-3.  You don't use it to provide a service to anyone outside the team developing it.
+3.  You don't use it to provide any service to anyone outside the team developing it.
 
 <!-- Based on the Prototypes section of Parity 7.0.0 -->
 
