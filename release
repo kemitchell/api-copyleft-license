@@ -7,17 +7,17 @@ fi
 set -ex
 
 version="$1"
-current="$(git rev-parse --abbrev-ref HEAD)"
-branch="release-$version"
+working_branch="$(git rev-parse --abbrev-ref HEAD)"
+release_branch="release-$version"
 tag="v$version"
 license=license.md
 
-git checkout -b "$branch" master
+git checkout -b "$release_branch" "$working_branch"
 sed --in-place "s/Development Draft/$version/" "$license"
 sed --in-place "s/{version}/$version/" "$license"
 git add "$license"
 git commit -m "Version $version"
 git tag "$tag"
-git push origin "$branch"
+git push origin "$release_branch"
 git push origin "$tag"
-git checkout "$current"
+git checkout "$working_branch"
