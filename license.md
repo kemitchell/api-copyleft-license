@@ -30,9 +30,9 @@ This rule requires cooperative development of this software, minimizing duplicat
 
 ## Applications
 
-You don't have to contribute any software that only invokes this software's functionality through the interfaces this software exposes, unless that software exposes so much of this software's interfaces or functionality to users or other software that it becomes a practical substitute for this software.
+You don't have to contribute any software that only invokes this software's functionality through the interfaces this software exposes, unless that software exposes so much of this software's interfaces or functionality to users, programmers, or other software that it becomes a practical substitute for this software.
 
-Interfaces exposed by this software include all the interfaces this software provides users or other software to invoke its functionality, such as command line, graphical, application programming, remote procedure call, and inter-process communication interfaces.
+Interfaces exposed by this software include all the interfaces this software provides users, programmers, or other software to invoke its functionality, such as command line, graphical, application programming, remote procedure call, and inter-process communication interfaces.
 
 This exception to [Copyleft](#copyleft) allows building, sharing, and licensing applications as you like.
 
