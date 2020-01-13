@@ -66,9 +66,9 @@ To [contribute](#contribute) software:
 
 ## Excuse
 
-You're excused for unknowingly breaking [Copyleft](#copyleft) if you [contribute](#contribute) as required, or stop doing anything requiring this license, within thirty days of learning you broke the rule.  You're excused for unknowingly breaking [Notices](#notices) if you take all practical steps to comply within thirty days of learning you broke the rule.
+You're excused for unknowingly breaking [Copyleft](#copyleft) if you [contribute](#contribute) as required, or stop doing anything requiring this license, within thirty days of learning you broke the rule.  You're excused for unknowingly breaking [Notices](#notices) if you take all practical steps to comply within thirty days of learning you broke the rule.  Otherwise, if you break any rule of this license, your license ends immediately.
 
-<!-- Identical to the Excuse section of Parity 7.0.0 -->
+<!-- Based on the Excuse section of Parity 7.0.0 -->
 
 ## Copyright
 
