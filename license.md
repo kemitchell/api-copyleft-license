@@ -32,11 +32,11 @@ With two exceptions, [Prototypes](#prototypes) and [Applications](#applications)
 
 # Prototypes
 
-You need not contribute prototype changes, extensions, or other software that you do not end up using for more than fourteen calendar days, sharing with anyone else, or using to provide a service to anyone else.  The purpose of this exception to [Copyleft](#copyleft) is to allow private experimentation.
+You need not contribute prototype changes, extensions, or other software that you do not end up using for more than fourteen calendar days, sharing with anyone else, or using to provide a service to anyone else.  The purpose of this exception to [Copyleft](#copyleft) is to allow you to experiment in private.
 
 # Applications
 
-You need not contribute any software that only invokes this software's functionality through the interfaces this software exposes, without exposing this software's interfaces or functionality to users or other software to such an extent that it becomes a practical substitute for this software.  Interfaces exposed by this software include all the interfaces this software provides users or other software to invoke its functionality, such as command line, graphical, application programming, remote procedure call, and inter-process communication interfaces.  The purpose of this exception to [Copyleft](#copyleft) is to give you the freedom to share and license applications of this software as you like.
+You need not contribute any software that only invokes this software's functionality through the interfaces this software exposes, without exposing this software's interfaces or functionality to users or other software to such an extent that it becomes a practical substitute for this software.  Interfaces exposed by this software include all the interfaces this software provides users or other software to invoke its functionality, such as command line, graphical, application programming, remote procedure call, and inter-process communication interfaces.  The purpose of this exception to [Copyleft](#copyleft) is to allow you to share and license applications of this software as you choose.
 
 # Contributing
 
