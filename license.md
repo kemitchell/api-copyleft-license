@@ -44,7 +44,7 @@ When this license requires you to contribute software, take these steps within t
 
 1.  Publish all source code for that software, in the preferred form for making changes, through a freely accessible distribution system widely used for similar source code, so contributors and others can find and copy it.
 
-2.  Ensure that each part of that source code is licensed to the public under one of these:
+2.  Ensure that each part of that source code is licensed to the public under one or more of these:
 
     - The BSD-2-Clause Plus Patent License
 
