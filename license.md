@@ -46,9 +46,9 @@ When this license requires you to contribute software, take these steps within t
 
 2.  Ensure that each part of the source code is licensed to the public under one or more of these:
 
-    - The BSD-2-Clause Plus Patent License
-
     - The Blue Oak Model License 1.0.0
+
+    - The BSD-2-Clause Plus Patent License
 
     - terms with substantially the same legal effect as [Copyright](#copyright), [Patent](#patent), and [Reliability](#reliability), and optionally a rule like [Notices](#notices), a disclaimer like [No Liability](#no-liability), or both, but no other terms
 
