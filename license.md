@@ -42,17 +42,17 @@ You need not contribute any software that only invokes this software's functiona
 
 When this license requires you to contribute software, take these steps within thirty calendar days of creating or using the software for the first time:
 
-- Publish all source code for that software, in the preferred form for making changes, through a freely accessible distribution system widely used for similar source code, so contributors and others can find and copy it.
+1.  Publish all source code for that software, in the preferred form for making changes, through a freely accessible distribution system widely used for similar source code, so contributors and others can find and copy it.
 
-- Ensure that each part of that source code is licensed to the public under one of these:
+2.  Ensure that each part of that source code is licensed to the public under one of these:
 
-  - The BSD-2-Clause Plus Patent License
+    - The BSD-2-Clause Plus Patent License
 
-  - The Blue Oak Model License 1.0.0
+    - The Blue Oak Model License 1.0.0
 
-  - terms with substantially the same legal effect as [Copyright](#copyright), [Patent](#patent), and [Reliability](#reliability), and optionally a rule like [Notices](#notices), a disclaimer like [No Liability](#no-liability), or both, but no other terms
+    - terms with substantially the same legal effect as [Copyright](#copyright), [Patent](#patent), and [Reliability](#reliability), and optionally a rule like [Notices](#notices), a disclaimer like [No Liability](#no-liability), or both, but no other terms
 
-  - this license
+    - this license
 
 # Relicensing
 
