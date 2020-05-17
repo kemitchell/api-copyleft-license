@@ -6,7 +6,7 @@ title: API Copyleft License
 
 This license lets you use, share, and build on this software for free, but you have to contribute changes, additions, and other software that you build with it, other than prototypes and applications.
 
-# Acceptance
+# Agreement
 
 In order to receive this license, you must agree to its rules.  The rules of this license are both obligations under that agreement and conditions to your license.  You must not do anything with this software that triggers a rule that you cannot or will not follow.
 
