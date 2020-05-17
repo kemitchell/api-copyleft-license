@@ -16,7 +16,7 @@ Make sure everyone who gets a copy of any part of this software from you, with o
 
 # Copyleft
 
-With two exceptions, [Prototypes](#prototypes) and [Applications](#applications), you must contribute all changes and additions to this software, as well as all software that invokes this software's functionality, according to [Contributing](#contributing).  The purpose of this rule is to encourage cooperative development of this software, minimizing duplication of effort across competing substitutes.  When in doubt, contribute the software.
+With two exceptions, [Prototypes](#prototypes) and [Applications](#applications), contribute all changes and additions to this software, as well as all software that invokes this software's functionality.  The purpose of this rule is to encourage cooperative development of this software, minimizing duplication of effort across competing substitutes.  When in doubt, contribute the software.
 
 # Prototypes
 
@@ -28,27 +28,19 @@ You don't have to contribute any change, addition, or other software that meets 
 
 # Applications
 
-You need not contribute any software that only invokes this software's functionality through the interfaces this software exposes, without exposing this software's interfaces or functionality to users, programmers, or other software to such an extent that it becomes a practical substitute for this software.  Interfaces exposed by this software include all the interfaces this software provides users, programmers, or other software to invoke its functionality, such as command line, graphical, application programming, remote procedure call, and inter-process communication interfaces.  The purpose of this exception to [Copyleft](#copyleft) is to allow you to share and license applications of this software as you choose.
+You don't have to contribute any software that only invokes this software's functionality through the interfaces this software exposes, without exposing this software's interfaces or functionality to users, programmers, or other software to such an extent that it becomes a practical substitute for this software.  Interfaces exposed by this software include all the interfaces this software provides users, programmers, or other software to invoke its functionality, such as command line, graphical, application programming, remote procedure call, and inter-process communication interfaces.  The purpose of this exception to [Copyleft](#copyleft) is to allow you to share and license applications of this software as you choose.
 
-# Contributing
+# Contribute
 
-When this license requires you to contribute software, take these steps within thirty calendar days of creating or using the software for the first time:
+To [contribute](#contribute) software:
 
-1.  Publish all source code for the software, in the preferred form for making changes, through a freely accessible distribution system widely used for similar source code, so contributors and others can find and copy it.
+1.  Publish all source code for the software in the preferred form for making changes through a freely accessible distribution system widely used for similar source code so the contributor and others can find and copy it.
 
-2.  Ensure that each part of the source code is licensed to the public under one or more of these:
+2.  Make sure every part of the source code is available under this license, the Blue Oak Model License 1.0.0, the BSD-2-Clause Plus Patent License, or terms with substantially the same legal effect as [Copyright](#copyright), [Patent](#patent), and [Reliability](#reliability), and optionally a rule like [Notices](#notices), a disclaimer like [No Liability](#no-liability), or both, but no other terms.
 
-    - The Blue Oak Model License 1.0.0
+3.  Take these steps within thirty days.
 
-    - The BSD-2-Clause Plus Patent License
-
-    - terms with substantially the same legal effect as [Copyright](#copyright), [Patent](#patent), and [Reliability](#reliability), and optionally a rule like [Notices](#notices), a disclaimer like [No Liability](#no-liability), or both, but no other terms
-
-    - this license
-
-# No Relicensing
-
-[Contributing](#contributing) does not allow you to change the license terms for this software.  [Contributing](#contributing) only allows you to choose terms for other software covered by [Copyleft](#copyleft).
+4.  Note that this license does not allow you to change the license terms for this software.  You must follow [Notices](#notices).
 
 # Excuse
 
