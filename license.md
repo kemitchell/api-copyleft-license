@@ -56,7 +56,7 @@ When this license requires you to contribute software, take these steps within t
 
 # Relicensing
 
-This license does not allow you to change the license terms for this software, but only to contribute software covered by [Copyleft](#copyleft) under terms from the list above.
+[Contributing](#contributing) does not allow you to change the license terms for this software, but only to contribute software covered by [Copyleft](#copyleft) under terms from the list above.
 
 # Excuse
 
