@@ -42,9 +42,9 @@ You need not contribute any software that only invokes this software's functiona
 
 When this license requires you to contribute software, take these steps within thirty calendar days of creating or using the software for the first time:
 
-1.  Publish all source code for that software, in the preferred form for making changes, through a freely accessible distribution system widely used for similar source code, so contributors and others can find and copy it.
+1.  Publish all source code for the software, in the preferred form for making changes, through a freely accessible distribution system widely used for similar source code, so contributors and others can find and copy it.
 
-2.  Ensure that each part of that source code is licensed to the public under one or more of these:
+2.  Ensure that each part of the source code is licensed to the public under one or more of these:
 
     - The BSD-2-Clause Plus Patent License
 
