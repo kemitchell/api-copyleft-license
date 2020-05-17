@@ -60,7 +60,7 @@ This license does not allow you to change the license terms for this software, b
 
 # Excuse
 
-If anyone notifies you in writing that you have not complied with [Notices](#notices) or [Copyleft](#copyleft), you can keep your license by taking all practical steps to comply within thirty calendar days after the notice.  If you do not do so, your license ends immediately.
+If anyone notifies you in writing that you have not complied with [Notices](#notices), you can keep your license by taking all practical steps to comply within thirty calendar days after the notice.  If anyone notifies you in writing that you have not complied with [Copyleft](#copyleft), you can keep your license by taking all steps to comply, and responding with the address for the software in the distribution system through which you published, within thirty calendar days after the notice.  If you do not take these steps to comply after a notice, your license ends immediately.
 
 # No Liability
 
