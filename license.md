@@ -44,7 +44,7 @@ To [contribute](#contribute) software:
 
 # Excuse
 
-If anyone notifies you in writing that you have not complied with [Notices](#notices), you can keep your license by taking all practical steps to comply within thirty calendar days after the notice.  If anyone notifies you in writing that you have not complied with [Copyleft](#copyleft), you can keep your license by taking all steps to comply, and responding with the address for the software in the distribution system through which you published, within thirty calendar days after the notice.  If you do not take these steps to comply after a notice, your license ends immediately.
+You're excused for unknowingly breaking [Copyleft](#copyleft) if you contribute as required, or stop doing anything requiring this license, within thirty days of learning you broke the rule.  You're excused for unknowingly breaking [Notices](#notices) if you take all practical steps to comply within thirty days of learning you broke the rule.
 
 # Copyright
 
