@@ -12,7 +12,7 @@ In order to receive this license, you have to agree to its rules.  Those rules a
 
 # Notices
 
-You must ensure that everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license or a link to https://apicopyleft.com/license/{version}.
+Make sure everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license of a link to https://apicopyleft.com/license/{version}.
 
 # Copyright
 
