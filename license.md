@@ -4,7 +4,7 @@ title: API Copyleft License
 
 # Purpose
 
-This license gives you permission to use, share, and build with this software for free, but requires you to contribute source code for changes, additions, and other software that you build with it, other than prototypes and applications.
+This license lets you use, share, and build on this software for free, but you have to contribute changes, additions, and other software that you build with it, other than prototypes and applications.
 
 # Acceptance
 
