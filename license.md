@@ -28,7 +28,7 @@ No contributor can revoke this license.
 
 # Copyleft
 
-With two exceptions, [Prototypes](#prototypes) and [Applications](#applications), you must contribute all changes and additions to this software, as well as all software that invokes this software's functionality, according to [Contributing](#contributing).  When in doubt, contribute the software.  The purpose of this rule is to encourage cooperative development of this software, minimizing duplication of effort across competing substitutes.
+With two exceptions, [Prototypes](#prototypes) and [Applications](#applications), you must contribute all changes and additions to this software, as well as all software that invokes this software's functionality, according to [Contributing](#contributing).  The purpose of this rule is to encourage cooperative development of this software, minimizing duplication of effort across competing substitutes.  When in doubt, contribute the software.
 
 # Prototypes
 
