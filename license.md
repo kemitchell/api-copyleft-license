@@ -20,7 +20,11 @@ With two exceptions, [Prototypes](#prototypes) and [Applications](#applications)
 
 # Prototypes
 
-You need not contribute prototype changes, extensions, or other software that you do not end up using for more than fourteen calendar days, sharing with anyone else, or using to provide a service to anyone else.  The purpose of this exception to [Copyleft](#copyleft) is to allow you to experiment in private.
+You don't have to contribute any change, addition, or other software that meets all these criteria:
+
+1.  You don't use it for more than thirty days.
+
+2.  You don't share it outside the team developing it, other than for non-production user testing.
 
 # Applications
 
