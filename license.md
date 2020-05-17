@@ -14,18 +14,6 @@ In order to receive this license, you have to agree to its rules.  Those rules a
 
 Make sure everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license of a link to https://apicopyleft.com/license/{version}.
 
-# Copyright
-
-Each contributor licenses you to do everything with this software that would otherwise infringe that contributor's copyright in it.
-
-# Patent
-
-Each contributor licenses you to do everything with this software that would otherwise infringe any patent claims they can license or become able to license.
-
-# Reliability
-
-No contributor can revoke this license.
-
 # Copyleft
 
 With two exceptions, [Prototypes](#prototypes) and [Applications](#applications), you must contribute all changes and additions to this software, as well as all software that invokes this software's functionality, according to [Contributing](#contributing).  The purpose of this rule is to encourage cooperative development of this software, minimizing duplication of effort across competing substitutes.  When in doubt, contribute the software.
@@ -61,6 +49,18 @@ When this license requires you to contribute software, take these steps within t
 # Excuse
 
 If anyone notifies you in writing that you have not complied with [Notices](#notices), you can keep your license by taking all practical steps to comply within thirty calendar days after the notice.  If anyone notifies you in writing that you have not complied with [Copyleft](#copyleft), you can keep your license by taking all steps to comply, and responding with the address for the software in the distribution system through which you published, within thirty calendar days after the notice.  If you do not take these steps to comply after a notice, your license ends immediately.
+
+# Copyright
+
+Each contributor licenses you to do everything with this software that would otherwise infringe that contributor's copyright in it.
+
+# Patent
+
+Each contributor licenses you to do everything with this software that would otherwise infringe any patent claims they can license or become able to license.
+
+# Reliability
+
+No contributor can revoke this license.
 
 # No Liability
 
