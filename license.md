@@ -10,13 +10,13 @@ This license lets you use, share, and build on this software for free, but you h
 
 In order to receive this license, you have to agree to its rules.  Those rules are both obligations under that agreement and conditions to your license.  Don't do anything with this software that triggers a rule you can't or won't follow.
 
-# Copyright
-
-Each contributor licenses you to do everything with this software that would otherwise infringe that contributor's copyright in it.
-
 # Notices
 
 You must ensure that everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license or a link to https://apicopyleft.com/license/{version}.
+
+# Copyright
+
+Each contributor licenses you to do everything with this software that would otherwise infringe that contributor's copyright in it.
 
 # Patent
 
