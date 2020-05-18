@@ -5,7 +5,7 @@ CFDOCX=$(NPMBIN)/commonform-docx
 JSON=$(NPMBIN)/json
 
 GIT_TAG=$(shell (git diff-index --quiet HEAD && git describe --exact-match --tags 2>/dev/null | sed 's/v//'))
-EDITION:=$(or $(EDITION),$(if $(GIT_TAG),$(GIT_TAG),Internal Draft))
+EDITION:=$(or $(EDITION),$(if $(GIT_TAG),$(GIT_TAG),Developmen Draft))
 
 BUILD=build
 TARGETS=$(addprefix $(BUILD)/,license.html license.docx license.pdf)
