@@ -26,6 +26,8 @@ You don't have to contribute any change, addition, or other software that meets 
 
 2.  You don't share it outside the team developing it, other than for non-production user testing.
 
+3.  You don't use it for anyone outside the team developing it.
+
 # Applications
 
 You don't have to contribute any software that only invokes this software's functionality through the interfaces this software exposes, without exposing this software's interfaces or functionality to users, programmers, or other software to such an extent that it becomes a practical substitute for this software.  Interfaces exposed by this software include all the interfaces this software provides users, programmers, or other software to invoke its functionality, such as command line, graphical, application programming, remote procedure call, and inter-process communication interfaces.  The purpose of this exception to [Copyleft](#copyleft) is to allow you to share and license applications of this software as you choose.
