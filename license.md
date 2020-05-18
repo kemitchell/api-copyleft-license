@@ -16,7 +16,7 @@ Make sure everyone who gets a copy of any part of this software from you, with o
 
 # Copyleft
 
-With two exceptions, [Prototypes](#prototypes) and [Applications](#applications), contribute all changes and additions to this software, as well as all software that invokes this software's functionality.  When in doubt, contribute.
+With two exceptions, [Prototypes](#prototypes) and [Applications](#applications), contribute all changes and additions that you make to this software, as well as all software that invokes this software's functionality.  When in doubt, contribute.
 
 # Prototypes
 
